@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Next Level",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-07T00:58:45.332065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Next Level Charli",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/01_Next_Level_Charli_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Children of the Next Level",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/02_Children_of_the_Next_Level_Testament.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful (Al B Rich Next Level Mix)",
+      "artist": "Christina Aguilera",
+      "has_synced": false,
+      "path": "select/03_Beautiful_(Al_B_Rich_Next_Level_Mix)_Christina_Aguilera.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beautiful (Al B Rich Next Level M",
+      "artist": "Christina Aguilera",
+      "has_synced": false,
+      "path": "select/04_Beautiful_(Al_B_Rich_Next_Level_M_Christina_Aguilera.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Next Level",
+      "artist": "7UBO feat. Cantaffa",
+      "has_synced": false,
+      "path": "select/05_Next_Level_7UBO_feat._Cantaffa.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Next Level",
+      "artist": "7UBO",
+      "has_synced": false,
+      "path": "select/06_Next_Level_7UBO.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Next Level",
+      "artist": "Obey The Brave",
+      "has_synced": true,
+      "path": "select/07_Next_Level_Obey_The_Brave.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Next Level",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/08_Next_Level_aespa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Next Level",
+      "artist": "Bolt Upright",
+      "has_synced": false,
+      "path": "select/09_The_Next_Level_Bolt_Upright.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Next Level",
+      "artist": "Show & A.G.",
+      "has_synced": false,
+      "path": "select/10_Next_Level_Show_&_A.G..txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Next Level (IMLAY Remix)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/11_Next_Level_(IMLAY_Remix)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Next Level (Lionclad Remix)",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/12_Next_Level_(Lionclad_Remix)_aespa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Next Level",
+      "artist": "SFDK",
+      "has_synced": true,
+      "path": "select/13_Next_Level_SFDK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Next Level",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/14_Next_Level_aespa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Next Level",
+      "artist": "Zayde Wølf",
+      "has_synced": true,
+      "path": "select/15_Next_Level_Zayde_Wølf.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Next Level",
+      "artist": "Zayde Wølf",
+      "has_synced": true,
+      "path": "select/16_Next_Level_Zayde_Wølf.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Next Level",
+      "artist": "Slim Thug feat. Jack Freeman",
+      "has_synced": false,
+      "path": "select/17_Next_Level_Slim_Thug_feat._Jack_Freeman.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Next Level",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Next_Level_aespa.txt"
+    }
+  ]
+}
